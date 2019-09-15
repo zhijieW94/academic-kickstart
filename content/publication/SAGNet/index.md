@@ -41,7 +41,7 @@ links:
 - name: Project Page
   url: https://vcc.tech/research/2019/SAGNet
 url_pdf: http://vcc.szu.edu.cn/file/upload_file//image/research/att201908291056/SAGnet.pdf
-url_code: https://github.com/zhijieW-94/SAGNet
+url_code: https://github.com/zhijieW94/SAGNet
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: https://vcc.tech/research/2019/SAGNet
@@ -71,14 +71,3 @@ image:
 # #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-<!-- {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}} -->
-
-<!-- {{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}} -->
-
-<!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
-

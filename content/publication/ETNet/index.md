@@ -25,8 +25,8 @@ date: "2019-09-03T00:00:00Z"
 # publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Neurips 2019
-publication_short: Neurips 2019
+publication: NeurIPS 2019
+publication_short: NeurIPS 2019
 
 links:
 - name: Project Page
