@@ -10,7 +10,7 @@ title: "ETNet: Error Transition Network for Arbitrary Style Transfer"
 
 # author_list: Zhijie Wu, Chunjin Song
 
-author_list: <b>Zhijie Wu</b>*, Chunjin Song\*, <a href='https://zhouyangvcc.github.io/'>Yang Zhou</a>, <a href='http://www.cs.mun.ca/~gong/'>Minglun Gong</a>, <a href='https://vcc.tech/~huihuang'>Hui Huang</a>
+author_list: <b>Zhijie Wu</b>*, <a href='https://chunjinsong.github.io/'>Chunjin Song</a>\*, <a href='https://zhouyangvcc.github.io/'>Yang Zhou</a>, <a href='http://www.cs.mun.ca/~gong/'>Minglun Gong</a>, <a href='https://vcc.tech/~huihuang'>Hui Huang</a>
 
 date: "2019-09-03T00:00:00Z"
 # doi: ""
@@ -30,9 +30,9 @@ publication_short: NeurIPS 2019
 
 links:
 - name: Project Page
-  url: '#'
-url_pdf: '#'
-url_code: '#'
+  url: https://vcc.tech/research/2019/ETNet
+url_pdf: http://papers.nips.cc/paper/8356-etnet-error-transition-network-for-arbitrary-style-transfer.pdf
+url_code: https://github.com/zhijieW94/ETNet
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: https://vcc.tech/research/2019/SAGNet

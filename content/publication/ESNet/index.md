@@ -1,9 +1,9 @@
 ---
 title: "Pair-wise Exchangeable Feature Extraction for Arbitrary Style Transfer"
 
-author_list: <b>Zhijie Wu</b>*, Chunjin Song\*, <a href='https://zhouyangvcc.github.io/'>Yang Zhou</a>, <a href='http://www.cs.mun.ca/~gong/'>Minglun Gong</a>, <a href='https://vcc.tech/~huihuang'>Hui Huang</a>
+author_list: <b>Zhijie Wu</b>*, <a href='https://chunjinsong.github.io/'>Chunjin Song</a>\*, <a href='https://zhouyangvcc.github.io/'>Yang Zhou</a>, <a href='http://www.cs.mun.ca/~gong/'>Minglun Gong</a>, <a href='https://vcc.tech/~huihuang'>Hui Huang</a>
 
-date: "2019-09-11T00:00:00Z"
+date: "2019-11-04T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ date: "2019-09-11T00:00:00Z"
 # publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Technical Report
-publication_short: Technical Report
+publication: AAAI 2020
+publication_short: AAAI 2020
 
 # tags:
 # - Source Themes
@@ -26,8 +26,8 @@ publication_short: Technical Report
 links:
 - name: Project Page
   url: '#'
-url_pdf: '#'
-url_code: '#'
+url_pdf: 'https://arxiv.org/pdf/1811.10352.pdf'
+# url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: https://vcc.tech/research/2019/SAGNet
